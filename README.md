@@ -55,7 +55,7 @@ A easy sample for training for CHTR, please running:
 
 
 
-## Citing KaryoNet
+## Citing CHTR
 
 
 ## Contact
